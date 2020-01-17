@@ -7,7 +7,7 @@
     <option name="WORKING_DIRECTORY" value="" />
     <option name="PARENT_ENVS" value="true" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShellFiles/preRN.sh" />
-    <option name="PARAMETERS" value="no no " />
+    <option name="PARAMETERS" value="yes yes" />
     <method v="2" />
   </configuration>
 </component>
