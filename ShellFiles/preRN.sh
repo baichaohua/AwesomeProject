@@ -73,5 +73,7 @@ current_sh_path=`dirname $0`;
 reInstallNodeModules $1
 #4. 检查是否需要重新安装 pod
 reinstallPods $2
+#5. 回到工作路径
+cd $workspace_path;
 
 echo "脚本执行完毕";
